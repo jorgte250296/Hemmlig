@@ -1,1 +1,3 @@
 ny fil for å teste ut konflikt 
+
+hei. jeg lager konflikt

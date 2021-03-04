@@ -1,3 +1,9 @@
+
 ny fil for å teste ut konflikt 
 
 hei. jeg lager konflikt
+
+ny fil for å teste ut konflikt
+
+prøver å lage enda en konflikt 
+

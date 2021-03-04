@@ -1,1 +1,3 @@
-ny fil for å teste ut konflikt 
+ny fil for å teste ut konflikt
+
+prøver å lage enda en konflikt 
